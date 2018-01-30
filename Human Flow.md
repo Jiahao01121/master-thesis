@@ -1,11 +1,12 @@
 # Human Flow
-    Inspired by AI WEIWEI's documentary: Human Flow
-    (2017.Oct)
+    Inspired by AI WEIWEI's documentary: __Human Flow__(2017.Oct)
 ## movement category
 ### Migrant
 * ppl with money(millionare)
 * **refugees**
+
   * Over 65 million people around the world have been forced from their homes to escape famine, climate change and war in the greatest human displacement since World War II
+
   * Are they given 100% respect as human being?
       1. refugee fatality rate
           * In the process (on their way)
