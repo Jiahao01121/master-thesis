@@ -1,8 +1,8 @@
 # Human Flow
 
-Inspired by AI WEIWEI's documentary: __Human Flow__(2017.Oct)
+Inspired by AI WEIWEI's documentary: [_Human Flow_](http://www.humanflow.com/)(2017.Oct)
 
-
+Topic: Visualizing the human flow not only migrant, but refugee, travel, all sorts of reason of going abroad combined.
 
 
 
@@ -15,7 +15,7 @@ Inspired by AI WEIWEI's documentary: __Human Flow__(2017.Oct)
   * Over 65 million people around the world have been forced from their homes to escape famine, climate change and war in the greatest human displacement since World War II
 
   * Are they given 100% respect as human being?
-      1. refugee fatality rate
+      1. [refugee fatality rate](http://missingmigrants.iom.int/downloads)
           * In the process (on their way)
           * After arrival
               * Major refugee hosting country's economy/living condition change (data: GDP, unemployment rate (maybe doesn't reflect the real situation? cos refugee doesn't have host city's citizenship))
@@ -37,7 +37,7 @@ Inspired by AI WEIWEI's documentary: __Human Flow__(2017.Oct)
     * [Economically active foreign-born population by occupation](http://data.un.org/Data.aspx?d=POP&f=tableCode:43)
 * where are the most ppl in X place coming from?
     * [Foreign population (non-citizens) by country of citizenship](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a127)
-
+    * [International migrant stock 2017](http://www.un.org/en/development/desa/population/migration/data/estimates2/estimates17.shtml)
 
 
 
