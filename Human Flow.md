@@ -12,8 +12,8 @@ Inspired by AI WEIWEI's documentary: __Human Flow__(2017.Oct)
       1. refugee fatality rate
           * In the process (on their way)
           * After arrival
-          * Major refugee hosting country's economy/living condition change
-          * Employment-to-population ratio
+              * Major refugee hosting country's economy/living condition change
+              * Employment-to-population ratio
       2. local attitude towards immigrant/refugee (UN's data: racial accepted rate)
       3. living condition
           * Clean water?
