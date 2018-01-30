@@ -1,6 +1,11 @@
 # Human Flow
 
 Inspired by AI WEIWEI's documentary: __Human Flow__(2017.Oct)
+
+
+
+
+
 ## movement category
 ### Migrant
 * ppl with money(millionare)
@@ -12,33 +17,39 @@ Inspired by AI WEIWEI's documentary: __Human Flow__(2017.Oct)
       1. refugee fatality rate
           * In the process (on their way)
           * After arrival
-              * Major refugee hosting country's economy/living condition change
-              * Employment-to-population ratio
+              * Major refugee hosting country's economy/living condition change (data: GDP, unemployment rate (maybe doesn't reflect the real situation? cos refugee doesn't have host city's citizenship))
+              * [Employment-to-population ratio](http://data.un.org/Data.aspx?d=GenderStat&f=inID%3a101)
       2. local attitude towards immigrant/refugee (UN's data: racial accepted rate)
       3. living condition
-          * Clean water?
-          * electricity?
-          * Bath?
-          * Clean water?
-          * electricity?
-          * Bath?
+          * [electricity?](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a295)
+          * [Bath?](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a289)
+          * [Clean water?](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a282)
 
 
 
 ### travel
-* will be back to the originate, **not staying abroad**
+    * will be back to the originate, **not staying abroad** Data: [World Tourism Data](http://data.un.org/DocumentData.aspx?id=375)
 ### study abroad
-* will be back to the originate
-* staying abroad work/live
-Summary: Inflow/outflow by reason for admission (UN's data)   Inflow/outflow by purpose of going abroad
+    * will be back to the originate
+    * staying abroad work/live
+        * [Inflow/outflow by reason for admission](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a400)
+        * [Inflow/outflow by purpose of going abroad](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a403)
+
+
+
+
+
+
 ## Reason of the human flow
-    "I think we have entered a period of the world history where the movements of ppl across borders has accelerated"
-    Prof. Kirisci
-### Social media?
-### democratization of transportation
-* Aviation fuel price (UN's data)
-* Aviation's fuel consumption by country
-### globalization
+
+*"I think we have entered a period of the world history where the movements of ppl across borders has accelerated" -- Prof. Kirisci*
+
+* Social media?
+* democratization of transportation
+    * [Aviation fuel price (UN's data)](http://data.un.org/Data.aspx?d=EDATA&f=cmID%3aAV%3btrID%3a122)
+    * Aviation's fuel consumption by country
+* globalization
+
 ## currency flow
 ### FDI inflow/outflow (data from Atlas.com)
 ## tuition fee rank/change within 10years
