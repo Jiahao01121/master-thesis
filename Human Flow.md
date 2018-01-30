@@ -28,12 +28,13 @@ Inspired by AI WEIWEI's documentary: __Human Flow__(2017.Oct)
 
 
 ### travel
-    * will be back to the originate, **not staying abroad** Data: [World Tourism Data](http://data.un.org/DocumentData.aspx?id=375)
+* will be back to the originate, **not staying abroad** Data: [World Tourism Data](http://data.un.org/DocumentData.aspx?id=375)
+
 ### study abroad
-    * will be back to the originate
-    * staying abroad work/live
-        * [Inflow/outflow by reason for admission](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a400)
-        * [Inflow/outflow by purpose of going abroad](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a403)
+* will be back to the originate
+* staying abroad work/live
+    * [Inflow/outflow by reason for admission](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a400)
+    * [Inflow/outflow by purpose of going abroad](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a403)
 
 
 
