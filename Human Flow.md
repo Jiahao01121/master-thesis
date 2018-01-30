@@ -7,19 +7,19 @@
 * **refugees**
   * Over 65 million people around the world have been forced from their homes to escape famine, climate change and war in the greatest human displacement since World War II
   1. Are they given 100% respect as human being?
-    1. refugee fatality rate
-    * In the process (on their way)
-    * After arrival
-     * Major refugee hosting country's economy/living condition change
-       * Employment-to-population ratio
-    2. local attitude towards immigrant/refugee (UN's data: racial accepted rate)
-    3. living condition
-    * Clean water?
-    * electricity?
-    * Bath?
-    * Clean water?
-    * electricity?
-    * Bath?
+      1. refugee fatality rate
+        * In the process (on their way)
+        * After arrival
+        * Major refugee hosting country's economy/living condition change
+        * Employment-to-population ratio
+      2. local attitude towards immigrant/refugee (UN's data: racial accepted rate)
+      3. living condition
+        * Clean water?
+        * electricity?
+        * Bath?
+        * Clean water?
+        * electricity?
+        * Bath?
 
 
 
