@@ -2,8 +2,10 @@
 
 Inspired by AI WEIWEI's documentary: [_Human Flow_](http://www.humanflow.com/)(2017.Oct)
 
-Topic: Visualizing the human flow not only migrant, but refugee, travel, all sorts of reason of going abroad combined.
 
+#### Ideas:
+1. Gov expense on other stuff compare to the money spent on refugee's asylum?
+2. UNHCR
 
 
 ## movement category
@@ -70,7 +72,7 @@ Topic: Visualizing the human flow not only migrant, but refugee, travel, all sor
 * Comparison
     * [Comparison of different sex/ages of migrant](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a44)
     * [Comparison of different originate and destination](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a127)
-
+    * Comparison of hosting country's GDP compare to the country doesn't host refugees.
 
 ## currency flow
 * [FDI inflow/outflow (data from Atlas.com)](https://www.theatlas.com/charts/NJxV6yP9)
