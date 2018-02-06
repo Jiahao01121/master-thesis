@@ -1,7 +1,8 @@
+
 # Human Flow
 
 Inspired by AI WEIWEI's documentary: [_Human Flow_](http://www.humanflow.com/)(2017.Oct)
-
+[MindMap V2](https://www.mindmeister.com/1027911795?t=MlRr54SsP5)
 
 #### Ideas:
 1. Gov expense on other stuff compare to the money spent on refugee's asylum?
