@@ -4,7 +4,6 @@
   - 3, maybe 4 chapters
   - provide a global overview/deep dive on the refugee crisis.
 
---------
 
 ## Chapter 1 - Chaos
 
